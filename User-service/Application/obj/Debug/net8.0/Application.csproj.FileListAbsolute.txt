@@ -1,0 +1,44 @@
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.deps.json
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.dll
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.pdb
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.dll
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\refint\Application.dll
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.pdb
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\ref\Application.dll
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Common.dll
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Domain.dll
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Common.pdb
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Domain.pdb
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\BÀI TẬP\C#\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.deps.json
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.dll
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Application.pdb
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Common.dll
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Domain.dll
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Common.pdb
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Domain.pdb
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.dll
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\refint\Application.dll
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.pdb
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+D:\BÀI TẬP\Project WEB MVC\CodeGrader\CodeGrader-UserService\User-service\Application\obj\Debug\net8.0\ref\Application.dll
