@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yWtS+tDX9nw=",
+  "dgSpecHash": "hnCdP+5yd6U=",
   "success": true,
-  "projectFilePath": "D:\\BÀI TẬP\\Project WEB MVC\\CodeGrader\\CodeGrader-UserService\\User-service\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\BÀI TẬP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nguyen Ngoc\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Nguyen Ngoc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

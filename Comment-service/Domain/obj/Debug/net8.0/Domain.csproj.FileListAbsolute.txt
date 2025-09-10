@@ -1,0 +1,15 @@
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\bin\Debug\net8.0\Domain.dll
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\bin\Debug\net8.0\Domain.pdb
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.dll
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.pdb
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\BÀI TẬP\C#\CodeGrader-CommentService\Comment-service\Domain\obj\Debug\net8.0\ref\Domain.dll

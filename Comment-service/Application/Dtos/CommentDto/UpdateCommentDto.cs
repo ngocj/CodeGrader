@@ -1,0 +1,8 @@
+﻿namespace Application.Dtos.CommentDto
+{
+    public class UpdateCommentDto
+    {
+        public int Id { get; set; }
+        public string CommentText { get; set; }
+    }
+}

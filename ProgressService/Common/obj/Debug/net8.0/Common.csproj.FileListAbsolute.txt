@@ -1,0 +1,15 @@
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\bin\Debug\net8.0\Common.deps.json
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\bin\Debug\net8.0\Common.runtimeconfig.json
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\bin\Debug\net8.0\Common.dll
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\bin\Debug\net8.0\Common.pdb
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.dll
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\refint\Common.dll
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.pdb
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+D:\BÀI TẬP\C#\CodeGrader-ProgressService\ProgressService\Common\obj\Debug\net8.0\ref\Common.dll

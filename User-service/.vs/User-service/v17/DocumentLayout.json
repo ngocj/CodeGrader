@@ -1,10 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\CodeGrader-UserService\\User-service\\",
+  "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26655CDC-9294-4195-AAE6-3010B3CCD97D}|WebApi\\WebApi.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\codegrader-userservice\\user-service\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{26655CDC-9294-4195-AAE6-3010B3CCD97D}|WebApi\\WebApi.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26655CDC-9294-4195-AAE6-3010B3CCD97D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26655CDC-9294-4195-AAE6-3010B3CCD97D}|WebApi\\WebApi.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26655CDC-9294-4195-AAE6-3010B3CCD97D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\application\\services\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|solutionrelative:application\\services\\implement\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\infrastructure\\context\\uscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\uscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\application\\dtos\\userdto\\userviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|solutionrelative:application\\dtos\\userdto\\userviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\application\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|solutionrelative:application\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26655CDC-9294-4195-AAE6-3010B3CCD97D}|WebApi\\WebApi.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\webapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26655CDC-9294-4195-AAE6-3010B3CCD97D}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\application\\services\\implement\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|solutionrelative:application\\services\\implement\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\application\\mapping\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9574AC-FEC7-49B0-B047-CBF76A56A28D}|Application\\Application.csproj|solutionrelative:application\\mapping\\mapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A4088B-1033-4C6B-AF02-44BEA398040F}|Common\\Common.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A4088B-1033-4C6B-AF02-44BEA398040F}|Common\\Common.csproj|solutionrelative:common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\infrastructure\\migrations\\20250905022525_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250905022525_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|d:\\b\u00E0i t\u1EADp\\project web mvc\\codegrader\\user-service\\infrastructure\\repositories\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBDACE1-2A72-4FC6-A6FC-A1609FA5FC2B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\implement\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\CodeGrader-UserService\\User-service\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\CodeGrader-UserService\\User-service\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-03T12:12:56.297Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
@@ -40,6 +75,164 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:45:21.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Services\\Implement\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implement\\UserService.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Services\\Implement\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\Implement\\UserService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:42:46.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Application\\Services\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T03:16:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T02:20:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\Repositories\\Implement\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\Implement\\UserRepository.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\Repositories\\Implement\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\Implement\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:52:04.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GenericRepository.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:51:55.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "USContext.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\Context\\USContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\USContext.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\Context\\USContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\USContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:46:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserViewDto.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Dtos\\UserDto\\UserViewDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\UserDto\\UserViewDto.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Dtos\\UserDto\\UserViewDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\UserDto\\UserViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:55:31.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\WebApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\WebApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:28:08.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250905022525_init.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\Migrations\\20250905022525_init.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250905022525_init.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Infrastructure\\Migrations\\20250905022525_init.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250905022525_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:25:26.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "Common\\Result.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Common\\Result.cs",
+              "RelativeToolTip": "Common\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T02:29:18.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Services\\Implement\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implement\\AuthService.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Services\\Implement\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\Implement\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T01:45:32.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapperProfiles.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Mapping\\MapperProfiles.cs",
+              "RelativeDocumentMoniker": "Application\\Mapping\\MapperProfiles.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP\\Project WEB MVC\\CodeGrader\\User-service\\Application\\Mapping\\MapperProfiles.cs",
+              "RelativeToolTip": "Application\\Mapping\\MapperProfiles.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:38:04.306Z"
             }
           ]
         }

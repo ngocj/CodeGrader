@@ -235,6 +235,22 @@
   },
   {
     "ContainingType": "WebApi.Controllers.UserController",
+    "Method": "GetProfileByUserId",
+    "RelativePath": "api/User/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.UserController",
     "Method": "ChangePassword",
     "RelativePath": "api/User/change-password",
     "HttpMethod": "PUT",
